@@ -1,8 +1,7 @@
-import React from 'react';
-import HandsCapture from './components/hands-capture/index';
+import HandsCapture from "./components/hands-capture/index"
 
 function App() {
-  return <HandsCapture /> 
+  return <HandsCapture />
 }
 
 export default App
